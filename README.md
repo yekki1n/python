@@ -48,4 +48,5 @@ hello-world-python/
 └── README.md
 ```
 
-## Thanks for checking out this project ❤️
+### Thanks for checking out this project ❤️
+#### If you like this, give me a star ⭐
