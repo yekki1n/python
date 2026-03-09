@@ -8,9 +8,9 @@ A minimal Python example project that prints **Hello, World!**.
 
 ---
 
-## 📦 Requirements
+## 🛁 Requirements
 
-- Python 3.8+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 
 Check your version:
 
